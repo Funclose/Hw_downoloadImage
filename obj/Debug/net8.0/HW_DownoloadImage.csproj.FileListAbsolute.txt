@@ -1,0 +1,14 @@
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\bin\Debug\net8.0\HW_DownoloadImage.exe
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\bin\Debug\net8.0\HW_DownoloadImage.deps.json
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\bin\Debug\net8.0\HW_DownoloadImage.runtimeconfig.json
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\bin\Debug\net8.0\HW_DownoloadImage.dll
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\bin\Debug\net8.0\HW_DownoloadImage.pdb
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\obj\Debug\net8.0\HW_DownoloadImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\obj\Debug\net8.0\HW_DownoloadImage.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\obj\Debug\net8.0\HW_DownoloadImage.AssemblyInfo.cs
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\obj\Debug\net8.0\HW_DownoloadImage.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\obj\Debug\net8.0\HW_DownoloadImage.dll
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\obj\Debug\net8.0\refint\HW_DownoloadImage.dll
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\obj\Debug\net8.0\HW_DownoloadImage.pdb
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\obj\Debug\net8.0\HW_DownoloadImage.genruntimeconfig.cache
+C:\Users\Artem\source\repos\HW_DownoloadImage\HW_DownoloadImage\obj\Debug\net8.0\ref\HW_DownoloadImage.dll
